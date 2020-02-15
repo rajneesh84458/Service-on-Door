@@ -1,0 +1,5 @@
+XSym
+0062
+7c6c97921fe94fe0b08add12275e70d5
+../../../Google-Maps-iOS-Utils/src/Heatmap/GMUWeightedLatLng.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 

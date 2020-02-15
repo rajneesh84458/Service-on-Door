@@ -1,0 +1,5 @@
+XSym
+0062
+2fff8aca2912791cceeb2bf7a85b203f
+../../../Google-Maps-iOS-Utils/src/Geometry/Model/GMUPolygon.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 

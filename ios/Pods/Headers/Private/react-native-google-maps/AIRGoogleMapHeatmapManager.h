@@ -1,0 +1,5 @@
+XSym
+0096
+e05f4a12e0e0545286c7f2dca0e98e7b
+../../../../../node_modules/react-native-maps/lib/ios/AirGoogleMaps/AIRGoogleMapHeatmapManager.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               

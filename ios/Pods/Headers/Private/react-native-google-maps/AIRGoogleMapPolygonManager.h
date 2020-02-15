@@ -1,0 +1,5 @@
+XSym
+0096
+6233e3703793535b0fcec578f76988fb
+../../../../../node_modules/react-native-maps/lib/ios/AirGoogleMaps/AIRGoogleMapPolygonManager.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               

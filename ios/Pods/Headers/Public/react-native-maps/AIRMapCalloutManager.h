@@ -1,0 +1,5 @@
+XSym
+0084
+276e8f57506bce1aff18e7c7967c6a97
+../../../../../node_modules/react-native-maps/lib/ios/AirMaps/AIRMapCalloutManager.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           

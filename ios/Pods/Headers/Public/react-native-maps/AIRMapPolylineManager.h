@@ -1,0 +1,5 @@
+XSym
+0085
+63dae7051ca86582d321aa69e0abdd32
+../../../../../node_modules/react-native-maps/lib/ios/AirMaps/AIRMapPolylineManager.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
